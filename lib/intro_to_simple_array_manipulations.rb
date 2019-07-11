@@ -33,5 +33,6 @@ def using_concat(first,second)
 end
 
 def using_insert(array,element)
-  array[]
+  array.insert(3,element)
 end
+
