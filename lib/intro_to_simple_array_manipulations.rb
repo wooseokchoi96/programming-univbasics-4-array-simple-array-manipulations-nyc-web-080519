@@ -29,5 +29,5 @@ def shift_with_args(array,num)
 end
 
 def using_concat(first,second)
-  
+  first.concat(second)
 end
