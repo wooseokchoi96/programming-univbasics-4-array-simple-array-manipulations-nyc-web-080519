@@ -25,3 +25,5 @@ def shift_with_args(array,num)
     array.shift 
   end
 end
+
+def using_concat
