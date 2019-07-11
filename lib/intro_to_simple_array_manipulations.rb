@@ -10,11 +10,10 @@ def using_pop(array)
   array.pop
 end 
 
-def pop_with_args(array,num)
-  num.times do
+def pop_with_args(array)
+  2.times do
     array.pop
   end
-  array
 end
 
 def using_shift(array)
