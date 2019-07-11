@@ -20,11 +20,10 @@ def using_shift(array)
   array.shift
 end
 
-def shift_with_args(array,num)
-  num.times do
+def shift_with_args(array)
+  2.times do
     array.shift 
   end
-  array
 end
 
 def using_concat(first,second)
