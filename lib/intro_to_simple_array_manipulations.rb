@@ -28,4 +28,6 @@ def shift_with_args(array,num)
   array
 end
 
-def using_concat
+def using_concat(first,second)
+  
+end
